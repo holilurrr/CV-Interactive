@@ -24,9 +24,11 @@ import HelloWorld from './components/HelloWorld.vue'
                     <div class="ds-socail">
                       <span>Contact</span>
                       <ul>
+                        <li><a href="tel:+6283898866327">Hubungi Kami</a></li>
                         <li><a href="mailto:test@test.com">Email</a></li>
                         <li><a href="https://www.instagram.com/holilurrahman._/" target="_blanck">Instagram</a></li>
                         <li><a href="https://github.com/holilurrr" target="_blanck">Github</a></li>
+                        
                       </ul>
                     </div>
                   </div>
@@ -70,7 +72,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <!-- footer -->
       <footer class="ds-footer">
         <div class="container">
-          <span class="ds-copyright">Copyright <a href="https://wwww.designstub.com/" target="_blanck"></a> © 2022 Holilur Rahman. All right reserved.</span>
+          <span class="ds-copyright">Copyright © 2022 Holilur Rahman. All right reserved.</span>
         </div>
       </footer>
   
