@@ -61,19 +61,19 @@
   <div class="col-card" style="width: 18rem;">
   <img src="Pekaaboo.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Peekaboo is Ice Cream with BENEFITS(veggies, to be exact).</p>
   </div>
 </div>
   <div class="col-card" style="width: 18rem;">
   <img src="Valorant.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities.</p>
   </div>
 </div>
 <div class="col-card" style="width: 18rem;">
   <img src="BostonDynamic.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Boston Dynamics is an engineering design and robotics firm best known for the development of BigDog.</p>
   </div>
 </div>
 </div>
@@ -81,19 +81,19 @@
 <div class="col-card" style="width: 18rem;">
   <img src="Vespa.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Vespa is a scooter type motorcycle brand originating from Italy.</p>
   </div>
 </div>
 <div class="col-card" style="width: 18rem;">
   <img src="Hospital.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Hospital is a health service institution that provides health services.</p>
   </div>
 </div>
 <div class="col-card" style="width: 18rem;">
   <img src="SevenBalley.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Seven Balley is a very beautiful Bali tour and is often visited by foreigners  .</p>
   </div>
 </div>
 </div>
