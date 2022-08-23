@@ -18,8 +18,9 @@ import HelloWorld from './components/HelloWorld.vue'
               <div class="col-12 col-sm-12  col-md-6  col-lg-5  col-xl-5  col-xxl-5 ds-left-section">
                   <div class="ds-sticky">
                     <figure>
-                      <img src="src/assets/FotoProfile.jpg">
+                      <img src="src/assets/FotoProfile.jpg" style="max-width: 75%;border: none;outline: none;height: auto;" >
                     </figure>
+                    
                     <div class="ds-socail">
                       <span>Contact</span>
                       <ul>
@@ -30,14 +31,37 @@ import HelloWorld from './components/HelloWorld.vue'
                     </div>
                   </div>
               </div>
-                
               <div class="col-12 col-sm-12  col-md-6  col-lg-7  col-xl-7  col-xxl-7 ds-right-section">
-                <RouterView />
+                <div class="ds-info-sectio-wrp">
+                  <section class="ds-info-sectio">
+                    <h2 class="ds-heading">
+                      Front End Developer for development of the graphical user interface of a website.
+                    </h2>
+                    <p>I am Holilur Rahman from SMK Taruna Bhakti Depok. I majored in Software Engineering to create a web design on the Front End with HTML, CSS, JavaScript, and Browser developer tools</p>
+                  </section>
+                  <section class="ds-info-list-section">
+                      <h3 class="">What I do</h3>
+                    <ul>
+                        <li>Web Design</li>
+                        <li>Design UI & UX</li>
+                        <li>Design Figma</li>
+                        <li>Develop Web User Interface</li>
+                        <li>Testing/Debugging</li>
+                        <li>Command Line</li>
+                        <li>Mobile Design</li>
+                        <li>Problem Solving</li>
+                    </ul>
+                  </section>
+                </div>
               </div>
+              <!-- <div class="col-12 col-sm-12  col-md-6  col-lg-7  col-xl-7  col-xxl-7 ds-right-section">
+                
+              </div> -->
+              <RouterView />
             </div>
         </div>
       </main>
-
+    
       <nav class="text-center">
         <RouterLink to="/"><i class="fa-solid fa-user"></i> Personal</RouterLink>
         <RouterLink to="/skill"><i class="fa-regular fa-bookmark"></i> Skill</RouterLink>
@@ -46,7 +70,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <!-- footer -->
       <footer class="ds-footer">
         <div class="container">
-          <span class="ds-copyright">© 2021 All right reserved. <a href="https://wwww.designstub.com/" target="_blanck"></a>Free minimal bootstrap template by Designstub.</span>
+          <span class="ds-copyright">Copyright <a href="https://wwww.designstub.com/" target="_blanck"></a> © 2022 Holilur Rahman. All right reserved.</span>
         </div>
       </footer>
   

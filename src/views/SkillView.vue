@@ -4,12 +4,12 @@
     <section class="ds-info-list-section">
       <h3 class="">Project I have done</h3>
         <ul>
-          <li><a href="assets/">Peekaboo</a></li>
-          <li><a href="details.html">Valorant</a></li>
-          <li><a href="details.html">Boston Dynamics</a></li>
-          <li><a href="details.html">Vespa</a></li>
-          <li><a href="details.html">Hospital</a></li>
-          <li><a href="details.html">Seven Baley</a></li>
+          <li><a href="Pekaaboo.jpg">Peekaboo</a></li>
+          <li><a href="Valorant.jpg">Valorant</a></li>
+          <li><a href="BostonDynamic.jpg">Boston Dynamics</a></li>
+          <li><a href="Vespa.jpg">Vespa</a></li>
+          <li><a href="Hospital.jpg">Hospital</a></li>
+          <li><a href="SevenBaley.jpg">Seven Baley</a></li>
         </ul>
     </section>
 
@@ -56,43 +56,47 @@
     <section class="ds-info-list-section">
       <h3 class="">Latest Works</h3>
     </section>
-  <!-- <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+<div class="container text-center">
+  <div class="row">
+  <div class="col-card" style="width: 18rem;">
+  <img src="Pekaaboo.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="10000">
-      <img src="src/assets/Pekaaboo.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Peekaboo</h5>
-        <p>Peekaboo is Ice Cream with BENEFITS</p>
-      </div>
-    </div>
-    <div class="carousel-item" data-bs-interval="2000">
-      <img src="src/assets/BostonDynamic.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div>
-    </div>
+</div>
+  <div class="col-card" style="width: 18rem;">
+  <img src="Valorant.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div> -->
+</div>
+<div class="col-card" style="width: 18rem;">
+  <img src="BostonDynamic.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+</div>
+  <div class="row">
+<div class="col-card" style="width: 18rem;">
+  <img src="Vespa.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div class="col-card" style="width: 18rem;">
+  <img src="Hospital.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div class="col-card" style="width: 18rem;">
+  <img src="SevenBalley.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+</div>
+</div>
 </template>
 
